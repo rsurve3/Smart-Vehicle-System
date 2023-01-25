@@ -19,3 +19,7 @@ Result
 
 The result of the system is that while reversing if there is an obstacle in the way the sensor will sense it and notify us while giving also giving the range. Through IOT we can control the components in the vehicle     even though we are far away from the actual vehicle.
 
+Conclusion
+
+In the urban cities, mainly people face problems like traffic congestion, this system allows the drivers to safely drive their vehicles anywhere they want to. Using sensors in a smart vehicle system it helps in   reduction of damage occurring to vehicle, it reduces traffic congestion     in cities. Also, by using IOT in it, our day to day life gets easier.
+
